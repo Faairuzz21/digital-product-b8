@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test{
+    color: blue;
+    cursor: url("https://s3-us-west.amazonaws.com/s.cdpn.io/9632/sad.png"), auto;
+}
+.box{
+    padding: 20px;
+    background-color: purple;
+    width: 120px;
+    height: 110px;
+
+
+}
+.box2{
+    background-color: burlywood;
+}
+.box3{
+    background-color: brown;
+}
+
+.container{
+    display: flex;
+    height: 500px;
+    border: 1px solid gray;
+    justify-content: space-around ;
+    align-items: center;
+  
+
+}
